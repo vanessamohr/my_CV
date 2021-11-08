@@ -1,0 +1,78 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-color: peachpuff;
+}
+
+h1 {
+	color: salmon;
+	font-family: courier;
+	text-align: center;
+	font-size: 350%;
+	font-weight: lighter;
+	letter-spacing: 3px;
+}
+
+h2 {
+	color: salmon;
+	font-family: courier;
+	text-align: center;
+	font-size: 250%;
+	font-weight: lighter;
+	letter-spacing: 3px;
+}
+
+h3 {
+	color: indianred;
+	font-family: cursive;
+	text-decoration: underline;
+	text-align: center;
+}
+
+p {
+	color: crimson;
+	font-family: georgia;
+	border: 2px dashed sandybrown;
+	padding: 30px;
+	margin: 20px;
+}
+
+ol {
+	color: crimson;
+	font-family: georgia;
+	border: 2px dashed sandybrown;
+	padding: 30px;
+	margin: 20px;
+	font-family: georgia;
+}
+
+ul {
+	color: crimson;
+	font-family: georgia;
+	border: 2px dashed sandybrown;
+	padding: 30px;
+	margin: 20px;
+	font-family: georgia;
+}
+
+table {
+	color: crimson;
+	font-family: georgia;
+	border: 2px dashed sandybrown;
+	padding: 30px;
+	margin: 20px;
+	font-family: georgia;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	color: peru;
+	font-family: cursive;
+	padding: 30px;
+	margin: 20px;
+}
